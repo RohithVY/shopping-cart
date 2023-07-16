@@ -137,7 +137,6 @@ a {
 
 .cart__items {
   display: flex;
-  /* justify-content: center; */
   flex-direction: column;
   height: 60vh;
   overflow-y: scroll;
@@ -163,7 +162,6 @@ a {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  /* background-color: #bababa; */
   gap: 2rem;
   font-weight: 700;
 }

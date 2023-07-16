@@ -16,7 +16,9 @@ const CartCardItem = ({ product, cartItems }) => {
           <button onClick={() => removeFromCart(product._id)}>-</button>
           <p>{cartItems[product._id]}</p>
           <button onClick={() => addToCart(product._id)}>+</button>
-          <span className="cart__prd_price">Price&nbsp;:&nbsp;${Math.round(product.price)}</span>
+          <span className="cart__prd_price">
+            Price&nbsp;:&nbsp;${Math.round(product.price)}
+          </span>
         </div>
       </div>
     </div>
