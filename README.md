@@ -1,7 +1,7 @@
 # Shopping Cart
 A shopping cart application made using context api, where context is set to global
 
-[Live Site URL](https://shopping-cart-mockaroo.netlify.app/cart)
+[Live Site URL](https://shopping-cart-mockaroo.netlify.app/)
 
 ## Screen Shots
 ![image](https://github.com/RohithVY/shopping-cart/assets/110025038/da03a825-ca79-4812-b645-6481f3334597)
